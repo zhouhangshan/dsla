@@ -13,9 +13,9 @@
 <br>
 
 ***
-
-![FusuiMiddleSchool](https://pic.baike.soso.com/ugc/baikepic2/0/20230305151413-317313212_jpeg_960_640_320403.jpg/0_90)
-
+  
+![FusuiMiddleSchool](https://pic.baike.soso.com/ugc/baikepic2/0/20230305151413-317313212_jpeg_960_640_320403.jpg)
+  
 ##### 加入我们
 > - [x] [加入我们](https://zhs141.github.io)
 
