@@ -17,9 +17,9 @@
 ![FusuiMiddleSchool](https://pic.baike.soso.com/ugc/baikepic2/0/20230305151413-317313212_jpeg_960_640_320403.jpg/0_90)
 
 ##### 加入我们
->[x][加入我们](https://zhs141.github.io)
+> - [x] [加入我们](https://zhs141.github.io)
 
-'''Python
+```Python
 import time as t
 i = 1
 while True:
@@ -35,4 +35,4 @@ k = input(dsla('我们需要你！'))
 f = open("1.txt", "w")
 f.write(k)
 f.close()
-'''
+```
