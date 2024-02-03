@@ -1,4 +1,4 @@
-# 141班 舔狗协会
+# 舔狗协会
 ## Deep Secret Love Association
 <center>
 <a href="https://zhs141.github.io/dsla/member.html">成员名单</a>
