@@ -7,9 +7,9 @@
 - [总章程](https://zhs141.github.io/dsla/alls.html)
 - [宗旨](https://zhs141.github.io/dsla/idea.html)
 
-***
   
 ![FusuiMiddleSchool](https://pic.baike.soso.com/ugc/baikepic2/0/20230305151413-317313212_jpeg_960_640_320403.jpg)
+
   
 ##### 加入我们
 > - [x] [加入我们](https://zhs141.github.io)
