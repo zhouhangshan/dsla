@@ -1,16 +1,11 @@
 # 舔狗协会
 ## Deep Secret Love Association
-<center>
-<a href="https://zhs141.github.io/dsla/member.html">成员名单</a>
-<br>
-<a href="https://zhs141.github.io/dsla/grade.html">等级划分</a>
-<br>
-<a href="https://zhs141.github.io/dsla/seaer.html">海王宣言</a>
-<br>
-<a href="https://zhs141.github.io/dsla/all.html">总章程</a>
-<br>
-<a href="https://zhs141.github.io/dsla/idea.html">宗旨</a>
-<br>
+
+- [成员名单](https://zhs141.github.io/dsla/member.html)
+- [等级划分](https://zhs141.github.io/dsla/grade.html)
+- [海王宣言](https://zhs141.github.io/dsla/seaer.html)
+- [总章程](https://zhs141.github.io/dsla/alls.html)
+- [宗旨](https://zhs141.github.io/dsla/idea.html)
 
 ***
   
