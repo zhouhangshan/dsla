@@ -7,7 +7,6 @@
 >玉程文  
 >黄耀乐  
 >张显  
->唐晋奕  
 
 
 ## 黄金  
@@ -26,6 +25,7 @@
 ```
 <sub>在此等级的成员有：</sub>  
 >吴浩明  
+>唐晋奕  
 
 
 ## 钻石<sup>坐镇</sup>  
@@ -53,7 +53,7 @@
 >李宗恒  
 
 
-[回到主页](https://zhs141.github.io/dsla)
+[回到主页](https://zhouhangshan.github.io/dsla)
 ```
 ©CopyRight 2024 zhs141.github.io
 ```
@@ -63,7 +63,7 @@ $$\sum_{n=1}^{100} n$$
 ## 申报流程  
 st=>start: 加入舔狗协会
 op0=>operation: 重修/练习
-op1=>operation: 申报：访问[招生办管理员网站](https://zhs141.github.io)
+op1=>operation: 申报：访问[招生办管理员网站](https://zhouhangshan.github.io)
 op2=>operation: 联系招生办
 cond=>condition: 符合条件
 e=>end: 升级
