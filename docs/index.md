@@ -1,11 +1,11 @@
 # 舔狗协会
 ## Deep Secret Love Association
 
-- [成员名单](https://zhs141.github.io/dsla/member.html)
-- [等级划分](https://zhs141.github.io/dsla/grade.html)
-- [海王宣言](https://zhs141.github.io/dsla/seaer.html)
-- [总章程](https://zhs141.github.io/dsla/alls.html)
-- [宗旨](https://zhs141.github.io/dsla/idea.html)
+- [成员名单](https://zhouhangshan.github.io/dsla/member.html)
+- [等级划分](https://zhouhangshan.github.io/dsla/grade.html)
+- [海王宣言](https://zhouhangshan.github.io/dsla/seaer.html)
+- [总章程](https://zhouhangshan.github.io/dsla/alls.html)
+- [宗旨](https://zhouhangshan.github.io/dsla/idea.html)
 
   
 ![FusuiMiddleSchool](https://pic.baike.soso.com/ugc/baikepic2/0/20230305151413-317313212_jpeg_960_640_320403.jpg/0_90)
@@ -15,7 +15,7 @@
 <br>
   
 ## 加入我们
-- [x] [加入我们](https://zhs141.github.io)
+- [x] [加入我们](https://zhouhangshan.github.io)
 
 <br>
 <br>
@@ -26,6 +26,7 @@
 <br>
 ## 最新公告
 - 2024年3月31日，舔协创始人周航山宣布辞职副会长职务并退会。  
+- 2024年5月9日，唐晋奕即位舔协会长。
 <br>
 
 ```Python
